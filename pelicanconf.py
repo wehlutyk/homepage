@@ -38,7 +38,8 @@ HUMANS_SAVE_AS = 'humans.txt'
 SITEMAP_SAVE_AS = 'sitemap.xml'
 DEFAULT_LANG = 'en'
 DATE_FORMATS = {'en': '%B %d, %Y'}
-STATIC_PATHS = ['images', 'favicon.ico', 'CNAME']
+STATIC_PATHS = ['images', 'favicon.ico', 'CNAME',
+                'sebastien-lerique_sl@mehho.net_0x3D8D8164_pub.asc']
 
 # Blogroll
 LINKS = (('Research', '/research/'),)
