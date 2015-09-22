@@ -19,11 +19,26 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# Urls
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
+ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
+
+# Theme
+THEME = 'pelicanyan'
+TWITTER_ACCOUNT = 'wehlutyk'
+DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'sitemap', 'robots', 'humans')
+ROBOTS_SAVE_AS = 'robots.txt'
+HUMANS_SAVE_AS = 'humans.txt'
+SITEMAP_SAVE_AS = 'sitemap.xml'
+DEFAULT_LANG = 'en'
+DATE_FORMATS = { 'en': '%B %d, %Y', }
+STATIC_PATHS = ['images', 'favicon.ico']
+
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Research', '/research/'),
+         ('Code', 'https://github.com/wehlutyk'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
