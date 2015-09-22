@@ -1,0 +1,7 @@
+__pycache__/
+*.pid
+*.pyc
+*.swp
+.venv
+
+output/
