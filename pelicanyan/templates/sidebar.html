@@ -23,14 +23,16 @@ styles, `#sidebar-checkbox` for behavior. -->
   {% endfor %}
   </nav>
 
-  <div class="sidebar-item">
+  <div class="sidebar-item icons">
     <p>
-    <a href="https://twitter.com/{{ TWITTER_ACCOUNT }}"><i class="fa fa-lg fa-twitter"></i></a>
-    <a href="https://github.com/{{ GITHUB_ACCOUNT }}"><i class="fa fa-lg fa-github"></i></a>
-    <a href="mailto:{{ EMAIL_ADDRESS }}"><i class="fa fa-lg fa-envelope"></i></a>
+      <a href="https://twitter.com/{{ TWITTER_ACCOUNT }}" title="Twitter"><i class="fa fa-lg fa-twitter"></i></a>
+      <a href="https://github.com/{{ GITHUB_ACCOUNT }}" title="GitHub"><i class="fa fa-lg fa-github"></i></a>
     </p>
-    <p class="tiny-note" id="credits">
-      <a class="muted" href="https://github.com/thomaswilley/pelicanyan">Themed by Pelicanyan</a>
+    <p>
+    <a href="mailto:{{ EMAIL_ADDRESS }}" title="Email & XMPP"><i class="fa fa-lg fa-envelope"></i> <span>&amp; XMPP</span></a>
+    </p>
+    <p>
+    <a href="{{ SITEURL }}/sebastien-lerique_sl@mehho.net_0x3D8D8164_pub.asc" title="PGP key"><i class="fa fa-lg fa-key"></i> <span>8431 C860 DEDA FD1A CC2E 4C32 46FE 9C1F 3D8D 8164</span></a>
     </p>
   </div>
 </div>
