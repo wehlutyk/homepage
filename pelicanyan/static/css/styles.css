@@ -32,3 +32,42 @@ td img {
 .muted {
   color: #9a9a9a !important;
 }
+
+/*
+ * Icons greying out
+ */
+a i.fa { color: #9a9a9a; margin-right: 1em; }
+a i.fa:hover { color: #fff }
+
+/*
+ * Credits
+ */
+#credits { position: absolute; bottom: 1em; }
+
+/*
+ * Fonts
+ */
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Sans'), local('PTSans-Regular'), url(/theme/fonts/PTSans-Regular.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Serif'), local('PTSerif-Regular'), url(/theme/fonts/PTSerif-Regular.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 700;
+  src: local('PT Serif Bold'), local('PTSerif-Bold'), url(/theme/fonts/PTSerif-Bold.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: italic;
+  font-weight: 400;
+  src: local('PT Serif Italic'), local('PTSerif-Italic'), url(/theme/fonts/PTSerif-Italic.woff2) format('woff2');
+}

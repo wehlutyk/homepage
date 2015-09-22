@@ -24,12 +24,12 @@ styles, `#sidebar-checkbox` for behavior. -->
   </nav>
 
   <div class="sidebar-item">
-{#
     <p>
-    <a href="https://twitter.com/{{ TWITTER_ACCOUNT }}">&copy; @{{ TWITTER_ACCOUNT }}</a> 2015
+    <a href="https://twitter.com/{{ TWITTER_ACCOUNT }}"><i class="fa fa-lg fa-twitter"></i></a>
+    <a href="https://github.com/{{ GITHUB_ACCOUNT }}"><i class="fa fa-lg fa-github"></i></a>
+    <a href="mailto:{{ EMAIL_ADDRESS }}"><i class="fa fa-lg fa-envelope"></i></a>
     </p>
-#}
-    <p class="tiny-note">
+    <p class="tiny-note" id="credits">
       <a class="muted" href="https://github.com/thomaswilley/pelicanyan">Themed by Pelicanyan</a>
     </p>
   </div>

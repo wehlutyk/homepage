@@ -27,18 +27,21 @@ ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 
 # Theme
 THEME = 'pelicanyan'
+TYPOGRIFY = True
 TWITTER_ACCOUNT = 'wehlutyk'
-DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'sitemap', 'robots', 'humans')
+GITHUB_ACCOUNT = 'wehlutyk'
+EMAIL_ADDRESS = 'sl@mehho.net'
+DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives',
+                    'sitemap', 'robots', 'humans')
 ROBOTS_SAVE_AS = 'robots.txt'
 HUMANS_SAVE_AS = 'humans.txt'
 SITEMAP_SAVE_AS = 'sitemap.xml'
 DEFAULT_LANG = 'en'
-DATE_FORMATS = { 'en': '%B %d, %Y', }
+DATE_FORMATS = {'en': '%B %d, %Y'}
 STATIC_PATHS = ['images', 'favicon.ico']
 
 # Blogroll
-LINKS = (('Research', '/research/'),
-         ('Code', 'https://github.com/wehlutyk'),)
+LINKS = (('Research', '/research/'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
@@ -47,4 +50,4 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True

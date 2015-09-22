@@ -3,6 +3,7 @@
 <div class="content-title">
 {% block content_title %}
 {% endblock %}
+<p>Hi there, some presentation.</p>
 </div>
 <div class="posts">
   {% for article in articles_page.object_list %}
@@ -12,7 +13,7 @@
     </h1>
     <span class="post-date">{{ article.locale_date }}</span>
 
-    {{ article.content }}
+    {{ article.headline }}
   </div>
   {% endfor %}
 </div>
