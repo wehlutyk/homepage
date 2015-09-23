@@ -42,6 +42,11 @@ td img {
 .icons a i.fa-key { float: left; margin: .7em .15em 1em 0; }
 
 /*
+ * Comments link
+ */
+.post-date a { color: #9A9A9A }
+
+/*
  * Fonts
  */
 @font-face {
