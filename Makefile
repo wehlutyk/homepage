@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=localhost
-SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/var/www
+SSH_HOST=eauchat.org
+SSH_PORT=10122
+SSH_USER=ubuntu
+SSH_TARGET_DIR=/var/www/slvh.fr
 
 S3_BUCKET=my_s3_bucket
 
