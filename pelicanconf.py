@@ -41,6 +41,11 @@ DATE_FORMATS = {'en': '%B %d, %Y'}
 STATIC_PATHS = ['images', 'favicon.ico',
                 'sebastien-lerique_sl@mehho.net_0x3D8D8164_pub.asc']
 
+# Posts are drafts by default
+DEFAULT_METADATA = {
+    'status': 'draft',
+}
+
 # Blogroll
 LINKS = (('Research', '/research/'),)
 
