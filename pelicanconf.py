@@ -22,8 +22,8 @@ AUTHOR_FEED_RSS = None
 # Urls
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
-ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
-ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
+ARTICLE_URL = 'posts/{date:%Y}-{date:%m}-{date:%d}-{slug}/'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}-{date:%m}-{date:%d}-{slug}/index.html'
 
 # Theme
 THEME = 'pelicanyan'
