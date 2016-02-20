@@ -1,4 +1,4 @@
-Title: Let's converse instead of publising
+Title: Let's converse instead of publishing
 Date: 2015-10-15
 Status: draft
 Tags: research, publishing, academia
