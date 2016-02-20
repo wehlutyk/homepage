@@ -4,7 +4,7 @@ Status: published
 Category: Higgledy-piggledy
 Tags: startup, world change, science
 Slug: this-weeks-higgledy-piggledy
-Summary: Random assortment of thoughts and links from the week.
+Summary: Random assortment of thoughts and links from the week. Why blog, politics and AI links, and thoughts about science and action.
 
 
 First: why blog?
