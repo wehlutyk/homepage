@@ -53,8 +53,6 @@ Why do people start startups? I wouldn't do it only for the money, it's easier t
 
 Now meaning comes from things you believe in, your life environment and your community. Something you want to be part of, you want to create, or you want to change.
 
-A question related to that is "Where?". Move to a big tech city? SF? London? Paris? Paris is an awful place to live if you're not ultra rich. Berlin could work, it's a really nice city with lots of tech activity and it's close to London too. Moving to SF sounds a lot like just becoming a fanboy. I'd be interested in looking at startup histories and their founders, and where they're from -- this should provide guidance.
-
 Because that's the thing with tech, there's this incredible hegemony of people pontificating on how things are different in that area, but should be done this or that way. And they're very vocal. But rarely do you read a piece that isn't tainted by a conflict of interest (e.g. people explaining why this or that is good, when they're really just defending the choices they made).
 
 ### Programming languages
