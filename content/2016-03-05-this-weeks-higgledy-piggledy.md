@@ -2,7 +2,7 @@ Title: This Week's Higgledy-piggledy
 Date: 2016-03-05
 Status: published
 Category: Higgledy-piggledy
-Tags: world change
+Tags: marseille, trump, together
 Slug: this-weeks-higgledy-piggledy
 Summary: Random assortment of thoughts and links from the week. No overarching theme here, just random really.
 
