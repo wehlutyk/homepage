@@ -1,6 +1,6 @@
 Title: These Months' Higgledy-piggledy
 Date: 2016-08-28
-Status: draft
+Status: published
 Category: Higgledy-piggledy
 Tags: marseille, urbanism
 Slug: these-months-higgledy-piggledy
@@ -11,6 +11,7 @@ Links, bits, bobs
 -----------------
 
 Marseille:
+
 * [Marseille, la ville à abattre](https://blogs.mediapart.fr/francois-bernheim/blog/070416/marseille-la-ville-abattre)
 * [Télé Participative](http://www.teleparticipative.org/)
 * [Vivre Ensemble dans le Grand Saint-Barthélémy](http://www.vivreensemble.org/spip.php?rubrique40)
@@ -33,11 +34,13 @@ Marseille:
 * [La Plateforme](http://www.laplateforme.org/)
 
 Some interesting reflections on other subjects:
+
 * [Un sociologue-pompier analyse les maux de la société française ](https://www.mediapart.fr/journal/culture-idees/290516/un-sociologue-pompier-analyse-les-maux-de-la-societe-francaise) -- Romain Pudal, pompier et sociologue, livre une lecture édifiante des tensions politiques et sociales qui traversent la France contemporaine, et expliquent en partie la droitisation et la fragmentation de larges pans des classes populaires.
 * [Under Surveillance: Examining Facebook’s Spiral of Silence Effects in the Wake of NSA Internet Monitoring](http://m.jmq.sagepub.com/content/early/2016/02/25/1077699016630255.full.pdf)
 * [Ahmed Naji, the Use of Life and the zombies](http://www.madamasr.com/opinion/culture/ahmed-naji-use-life-and-zombies)
 
 Software world:
+
 * [Reflections: The ecosystem is moving](https://whispersystems.org/blog/the-ecosystem-is-moving/)
 * [RuggedPOD](http://ruggedpod.qyshare.com/)
 * [CodyHouse](https://codyhouse.co/)
