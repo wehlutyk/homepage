@@ -47,7 +47,8 @@ DEFAULT_METADATA = {
 }
 
 # Blogroll
-LINKS = (('Research', '/research/'),)
+LINKS = (('Research', '/research/'),
+         ('Tools', '/tools/'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
