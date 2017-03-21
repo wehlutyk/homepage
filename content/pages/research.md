@@ -40,7 +40,7 @@ Some of these contradict each other, but I find them all inspiring:
 
 ## Projects {id="projects"}
 
-### [Gistr](https://osf.io/k7d38/)
+### 2015 to now -- [Gistr](https://osf.io/k7d38/)
 
 To investigate interpretation in particular contexts, and the effects it can have at the global scale such as cultural attractors, we built an online *chinese whispers* game where people iteratively memorise and rewrite short pieces of text, to see how they are gradually transformed as they are transmitted.
 
@@ -55,7 +55,7 @@ We're still developing this project and analysing the data it's producing, so mo
 </div>
 
 
-### [Brains copy-paste](https://brainscopypaste.readthedocs.io/en/latest/)
+### 2013-2016 -- [Brains copy-paste](https://brainscopypaste.readthedocs.io/en/latest/)
 
 Online news is full of quotes from politicians or other famous people. Quite often though, those quotes are transformed just a tiny little bit when they are copied from one source to another article -- blog or news outlet. This process is most likely unconscious, but it's not random: the changes made are significant, and we measured some of them with data-mining techniques. Looking at substitutions from one word to another shows that more complex words tend to be replaced with simpler, better known words.
 
@@ -70,7 +70,7 @@ This led to our [*Semantic drift of quotations in blogspace*](https://hal.archiv
 </div>
 
 
-### [Daydreaming](https://github.com/daydreaming-experiment)
+### 2012-2014 -- [Daydreaming](https://github.com/daydreaming-experiment)
 
 Mind-wandering is something we all do about 50% of our waking time: at any moment of the day, while reading a book, or working, or during any activity, you can disconnect from the immediate environment and start thinking about the past, the future, or people and places far away. Most of the time you won't even realise it until a few moments have passed, or even not at all! Getting to know more about this phenomenon has been traditionally quite challenging: unconscious mind-wandering isn't something you can trigger on command in the laboratory.
 
@@ -85,7 +85,16 @@ Mind-wandering is something we all do about 50% of our waking time: at any momen
 Here too, the whole process was open and all the parts are released as free software: the code is [here](https://github.com/daydreaming-experiment). The project also featured as a pilot experiment for the [Science en Poche](https://iscpif.fr/projects/science-en-poche/) project Vincent and I helped bootstrap with [David Chavalarias](http://chavalarias.com/), securing an "Émergence(s)" grant from the City of Paris later on.
 
 
-### Rugby
+### 2009-2011 -- Rugby
+
+Studying the social and cognitive sides of life together is hard, and a substantial reason for that is that our metaphors and categories might have to change a lot before we can reach satisfying descriptions of cognition-with-social: notably, the separation between the two might not be so obvious. Now another factor is that historically few people have been interested in this topic. So there is much to do, and exhibiting a few strong experimental links between the social and the cognitive is a good place to start to attract interest and spark more debate.
+
+A few years back, with [Julien Clément](https://quaibranly.academia.edu/JulienCl%C3%A9ment) and [Florence Weber](https://fr.wikipedia.org/wiki/Florence_Weber), we started a project aiming to do just that: experimentally show a strong link between the culture we are brought up in and the low-level automatic perception we have of a situation. Such links are probably present everywhere, and the literature in social science is rife with starting points (take Bourdieu's [habitus](https://en.wikipedia.org/wiki/Pierre_Bourdieu#Habitus) for instance), but eliciting one robustly requires a situation where the link is particularly strong and well-identified.
+
+So based on Julien Clément's PhD dissertation (*Le rugby de Samoa: les techniques du corps entre "Fa'Asamoa" et mondialisation du sport*), we aimed to study the way rugby players can perceive a situation differently depending on their upbringing. Samoan players, for instance, contrast strongly with French players: their individual technical competence can be quite superior to that of French players, while being unable to play some team situations that the French would consider textbook, for instance when particular group perception is necessary to win. Julien's work suggests that this strongly relates to players having different low-level perceptions of a given situation, depending on the rugby they have been trained to play, and the social *milieu* they were brought up in.
+
+The goal for the project was to study this hypothesis with the tools of neuroscience, but we had to abort shortly after the preliminary phase because of timing constraints and the lack of clear funding possibilities (among others, funding for a PhD on the subject). The sole output of the endeavour was my [*Rugby et Cognition: Enquête auprès du Racing Métro 92*](/static/2011-rapport-projet-rugby.pdf) internship report studying the Parisian rugby club *Racing Metro 92*, as a first step to identify potential situations where we could develop this idea (since flying international rugby players across the globe for an EEG or MRI is in no lab's budget). Certainly an unrealised opportunity, which might come back to life if the future allows!
+
 
 ---
 
