@@ -48,27 +48,41 @@ It's presented as a Game With a Purpose, available a [gistr.io](https://gistr.io
 
 We're still developing this project and analysing the data it's producing, so more will come here shortly.
 
-TODO: add pictures
+<div class="screenshots">
+  <a href="/static/gistr-exp-2-screenshots/welcome.png"><img alt="Gistr Welcome page" src="/static/gistr-exp-2-screenshots/welcome.png"></a>
+  <a href="/static/gistr-exp-2-screenshots/instructions.png"><img alt="Gistr Experiment Instructions" src="/static/gistr-exp-2-screenshots/instructions.png"></a>
+  <a href="/static/gistr-exp-2-screenshots/explore.png"><img alt="Gistr Tree Exploration" src="/static/gistr-exp-2-screenshots/explore.png"></a>
+</div>
 
 
 ### [Brains copy-paste](https://brainscopypaste.readthedocs.io/en/latest/)
 
 Online news is full of quotes from politicians or other famous people. Quite often though, those quotes are transformed just a tiny little bit when they are copied from one source to another article -- blog or news outlet. This process is most likely unconscious, but it's not random: the changes made are significant, and we measured some of them with data-mining techniques. Looking at substitutions from one word to another shows that more complex words tend to be replaced with simpler, better known words.
 
-This led to our *Semantic drift of quotations in blogspace* paper (see [publications](#publications)). The whole analysis is free software and thoroughly documented, so that it can be remixed or can serve as inspiration or as an example for other projects. The code lives [here](https://github.com/wehlutyk/brainscopypaste), the documentation [here](https://brainscopypaste.readthedocs.org/en/latest/).
+This led to our [*Semantic drift of quotations in blogspace*](https://hal.archives-ouvertes.fr/hal-01143986) paper. The whole analysis is free software and thoroughly documented, so that it can be remixed or can serve as inspiration or as an example for other projects. The code lives [here](https://github.com/wehlutyk/brainscopypaste), the documentation [here](https://brainscopypaste.readthedocs.org/en/latest/).
 
-TODO: add pictures
+<div class="screenshots">
+  <a href="/static/brainscopypaste-screenshots/figure-4.png"><img alt="Substitution detection models" src="/static/brainscopypaste-screenshots/figure-4.png"></a>
+</div>
+<div class="screenshots">
+  <a href="/static/brainscopypaste-screenshots/figure-6.png"><img alt="Feature susceptibilities" src="/static/brainscopypaste-screenshots/figure-6.png"></a>
+  <a href="/static/brainscopypaste-screenshots/figure-5.png"><img alt="POS susceptibilities" src="/static/brainscopypaste-screenshots/figure-5.png"></a>
+</div>
 
 
 ### [Daydreaming](https://github.com/daydreaming-experiment)
 
 Mind-wandering is something we all do about 50% of our waking time: at any moment of the day, while reading a book, or working, or during any activity, you can disconnect from the immediate environment and start thinking about the past, the future, or people and places far away. Most of the time you won't even realise it until a few moments have passed, or even not at all! Getting to know more about this phenomenon has been traditionally quite challenging: unconscious mind-wandering isn't something you can trigger on command in the laboratory.
 
-[Vincent Adam](https://vincentadam87.github.io/) and I had partnered to start building Android apps for cognitive science, and after a chance encounter with [Jonathan Smallwood](https://themindwanders.com/) we started a project to gather better data on mind-wandering thanks to smartphones! The project later transitioned to [Mikaël Bastian](http://mikaelbastian.weebly.com/) and [Jérôme Sackur](http://www.lscp.net/persons/sackur/) for the scientific side, partnering with [Gislain Delaire](https://cargocollective.com/gislaindelaire) for the design. Eventually created the [Daydreaming](https://play.google.com/store/apps/details?id=com.brainydroid.daydreaming) app, which would ask you at random moments of the day if you were mind-wandering or not (and delve into the details if you were). Launching it was a nice success, and led to another paper, *Language facilitates introspection*, which investigates the effect of mind-wandering in language vs. in images on the probability that you'll realise that you are currently mind-wandering.
+[Vincent Adam](https://vincentadam87.github.io/) and I had partnered to start building Android apps for cognitive science, and after a chance encounter with [Jonathan Smallwood](https://themindwanders.com/) we started a project to gather better data on mind-wandering thanks to smartphones! The project later transitioned to [Mikaël Bastian](http://mikaelbastian.weebly.com/) and [Jérôme Sackur](http://www.lscp.net/persons/sackur/) for the scientific side, partnering with [Gislain Delaire](https://cargocollective.com/gislaindelaire) for the design. Eventually created the [Daydreaming](https://play.google.com/store/apps/details?id=com.brainydroid.daydreaming) app, which would ask you at random moments of the day if you were mind-wandering or not (and delve into the details if you were). Launching it was a nice adventure, and led to another paper, [*Language facilitates introspection*](https://labs.psych.ucsb.edu/schooler/jonathan/sites/labs.psych.ucsb.edu.schooler.jonathan/files/pubs/bastian_innerspeech_manuscript_-_revised_cl-2.pdf), which investigates the effect of mind-wandering in language vs. in images on the probability that you'll realise that you are currently mind-wandering.
+
+<div class="screenshots">
+  <a href="/static/daydreaming-screenshots/question.png"><img alt="Daydreaming question example" src="/static/daydreaming-screenshots/question.jpg" style="height: 250px"></a>
+  <a href="/static/daydreaming-screenshots/results-rhythms.png"><img alt="Daydreaming rhythms results example" src="/static/daydreaming-screenshots/results-rhythms.png" style="height: 250px"></a>
+  <a href="/static/daydreaming-screenshots/results-type.png"><img alt="Daydreaming thought type results example" src="/static/daydreaming-screenshots/results-type.png" style="height: 250px"></a>
+</div>
 
 Here too, the whole process was open and all the parts are released as free software: the code is [here](https://github.com/daydreaming-experiment). The project also featured as a pilot experiment for the [Science en Poche](https://iscpif.fr/projects/science-en-poche/) project Vincent and I helped bootstrap with [David Chavalarias](http://chavalarias.com/), securing an "Émergence(s)" grant from the City of Paris later on.
-
-TODO: add pictures
 
 
 ### Rugby
