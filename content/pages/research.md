@@ -40,7 +40,7 @@ Some of these contradict each other, but I find them all inspiring:
 
 ## Projects {id="projects"}
 
-### 2015 to now -- [Gistr](https://osf.io/k7d38/)
+### 2015 to now -- [Gistr](https://osf.io/k7d38/) {id="gistr"}
 
 To investigate interpretation in particular contexts, and the effects it can have at the global scale such as cultural attractors, we built an online *chinese whispers* game where people iteratively memorise and rewrite short pieces of text, to see how they are gradually transformed as they are transmitted.
 
@@ -55,7 +55,7 @@ We're still developing this project and analysing the data it's producing, so mo
 </div>
 
 
-### 2013-2016 -- [Brains copy-paste](https://brainscopypaste.readthedocs.io/en/latest/)
+### 2013-2016 -- [Brains copy-paste](https://brainscopypaste.readthedocs.io/en/latest/) {id="brainscopypaste"}
 
 Online news is full of quotes from politicians or other famous people. Quite often though, those quotes are transformed just a tiny little bit when they are copied from one source to another article -- blog or news outlet. This process is most likely unconscious, but it's not random: the changes made are significant, and we measured some of them with data-mining techniques. Looking at substitutions from one word to another shows that more complex words tend to be replaced with simpler, better known words.
 
@@ -70,7 +70,7 @@ This led to our [*Semantic drift of quotations in blogspace*](https://hal.archiv
 </div>
 
 
-### 2012-2014 -- [Daydreaming](https://github.com/daydreaming-experiment)
+### 2012-2014 -- [Daydreaming](https://github.com/daydreaming-experiment) {id="daydreaming"}
 
 Mind-wandering is something we all do about 50% of our waking time: at any moment of the day, while reading a book, or working, or during any activity, you can disconnect from the immediate environment and start thinking about the past, the future, or people and places far away. Most of the time you won't even realise it until a few moments have passed, or even not at all! Getting to know more about this phenomenon has been traditionally quite challenging: unconscious mind-wandering isn't something you can trigger on command in the laboratory.
 
@@ -85,7 +85,7 @@ Mind-wandering is something we all do about 50% of our waking time: at any momen
 Here too, the whole process was open and all the parts are released as free software: the code is [here](https://github.com/daydreaming-experiment). The project also featured as a pilot experiment for the [Science en Poche](https://iscpif.fr/projects/science-en-poche/) project Vincent and I helped bootstrap with [David Chavalarias](http://chavalarias.com/), securing an "Émergence(s)" grant from the City of Paris later on.
 
 
-### 2009-2011 -- Rugby
+### 2009-2011 -- Rugby {id="rugby"}
 
 Studying the social and cognitive sides of life together is hard, and a substantial reason for that is that our metaphors and categories might have to change a lot before we can reach satisfying descriptions of cognition-with-social: notably, the separation between the two might not be so obvious. Now another factor is that historically few people have been interested in this topic. So there is much to do, and exhibiting a few strong experimental links between the social and the cognitive is a good place to start to attract interest and spark more debate.
 
@@ -107,7 +107,7 @@ The goal for the project was to study this hypothesis with the tools of neurosci
 Sébastien Lerique. [Pour une étude du contexte d’interprétation](https://github.com/wehlutyk/2016-02-article-je-memes/blob/master/article/article.pdf). *Travaux de linguistique*, special issue on "Les mèmes langagiers : Propagation, figement et déformation".
 
 
-**Published**
+**In press**
 
 Sébastien Lerique and Camille Roth (2017). [The semantic drift of quotations in blogspace: a case study in short-term cultural evolution](https://hal.archives-ouvertes.fr/hal-01143986). *Cognitive Science* (in press).
 
