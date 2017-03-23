@@ -143,3 +143,13 @@ Sébastien Lerique (2011). [Rugby et Cognition. Enquête auprès du Racing Métr
 ---
 
 ## Education {id="education"}
+
+See my [CV](/static/CV_Sébastien_Lerique_en.pdf) for more details. Here is the shorter version:
+
+* Current -- PhD candidate in Cognitive Science at the [EHESS](https://www.ehess.fr/) (Paris), attached to the [CAMS](http://cams.ehess.fr/), supervised by [Jean-Pierre Nadal](http://www.lps.ens.fr/~nadal/) and [Camille Roth](http://camille.roth.free.fr/) (co-supervisor).
+* 2013 -- [École Normale Supérieure](http://www.ens.fr/) Diploma, Cognitive Science major, Physics minor.
+* 2012 -- [*Cogmaster*](http://sapience.dec.ens.fr/cogmaster/www/) Masters in Cognitive Science (*magna cum laude*) focused on Mathematics, Modelling, and Linguistics, at the ENS (Paris).
+* 2010-2011 -- Undergraduate studies in Sociology and Anthropology at the [UNSAM](http://www.unsam.edu.ar/) (Buenos Aires, Argentina).
+* 2009 -- Graduated in Theoretical Physics at the ENS (Paris).
+* 2008 -- Accepted as core student at the ENS (Paris) through the Mathematics & Physics exam ("normalien", MPI 2008).
+* 2006 -- French *Baccalauréat*, Scientific section (*magna cum laude*), Lycée Louis Barthou (Pau, France).
