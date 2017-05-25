@@ -16,7 +16,7 @@ The current tools
 
 ### Apps/programs
 
-[Neovim](https://neovim.io/) for file editing, Firefox with the [Tab Tree](https://addons.mozilla.org/en-US/firefox/addon/tab-tree/) and [VimFx](https://addons.mozilla.org/en-US/firefox/addon/vimfx/) extensions (and Zotero and other standard stuff) for browsing, [Pelican](https://blog.getpelican.com/) for blogging.
+[Kakoune](http://kakoune.org/) for file editing, Firefox with the [Tab Center](https://testpilot.firefox.com/experiments/tab-center) and [VimFx](https://addons.mozilla.org/en-US/firefox/addon/vimfx/) extensions (and Zotero and other standard stuff) for browsing, [Pelican](https://blog.getpelican.com/) for blogging.
 
 ### Work
 
