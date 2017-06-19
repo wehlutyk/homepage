@@ -102,16 +102,17 @@ The goal for the project was to study this hypothesis with the tools of neurosci
 
 ### Peer-reviewed journals
 
-**Under review**
-
-Sébastien Lerique. [Pour une étude du contexte d’interprétation](https://github.com/wehlutyk/2016-02-article-je-memes/blob/master/article/article.pdf). *Travaux de linguistique*, special issue on "Les mèmes langagiers : Propagation, figement et déformation".
-
-
 **In press**
 
-Sébastien Lerique and Camille Roth (2017). [The semantic drift of quotations in blogspace: a case study in short-term cultural evolution](https://hal.archives-ouvertes.fr/hal-01143986). *Cognitive Science* (in press).
+Sébastien Lerique and Camille Roth (2017). [The semantic drift of quotations in blogspace: a case study in short-term cultural evolution](https://hal.archives-ouvertes.fr/hal-01143986). *Cognitive Science* (in press). [[Publisher version](http://onlinelibrary.wiley.com/doi/10.1111/cogs.12494/full)]
 
-Mikaël Bastian, Sébastien Lerique, Vincent Adam, Michael S. Franklin, Jonathan W. Schooler, and Jérôme Sackur (2017). [Language facilitates introspection: verbal mind-wandering has privileged access to consciousness](https://labs.psych.ucsb.edu/schooler/jonathan/sites/labs.psych.ucsb.edu.schooler.jonathan/files/pubs/bastian_innerspeech_manuscript_-_revised_cl-2.pdf). *Consciousness and Cognition* (in press).
+**2017**
+
+Mikaël Bastian, Sébastien Lerique, Vincent Adam, Michael S. Franklin, Jonathan W. Schooler, and Jérôme Sackur (2017). [Language facilitates introspection: verbal mind-wandering has privileged access to consciousness](http://www.lscp.net/persons/sackur/docs/Bastian2017.pdf). *Consciousness and Cognition*, 49, 86-97. [[Publisher version](http://www.sciencedirect.com/science/article/pii/S1053810017300272)]
+
+**2016**
+
+Sébastien Lerique (2016). [Pour une étude de la dynamique du sens : Réflexions épistémologiques sur la mémétique et l'épidémiologie des représentations](https://github.com/wehlutyk/2016-02-article-je-memes/blob/master/article/article.pdf). *Travaux de linguistique*, 73(2), 45-68. [[Publisher version](https://www.cairn.info/revue-travaux-de-linguistique-2016-2-page-45.htm)]
 
 
 ### Communications
