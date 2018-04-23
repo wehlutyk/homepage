@@ -40,18 +40,38 @@ Some of these contradict each other, but I find them all inspiring:
 
 ## Projects {id="projects"}
 
-### 2015 to now -- [Gistr](https://osf.io/k7d38/) {id="gistr"}
+### 2017 to now -- [Node-word-2-vec](https://github.com/ixxi-dante/nw2vec) {id="nw2vec"}
+
+Social media platforms present themselves as large networks of users communicating and interacting through written messages. Their interactions are highly structured, and linked to a variety of factors such as their socio-demographic variables, their linguistic usage patterns, the distribution of their interests, or the structure of interaction networks (either conversation- or follower-based).
+
+To our knowledge, current approaches to describing the dynamics of such systems do not capture the dependencies between these dimensions, as each corresponds to a different type of information on nodes and edges of a network. However, linguistic usage patterns are deeply linked to socio-economic variables, and topological network structure is a fundamental and coevolving component of the spread of information in the system. So there is much to be gained by integrating all the available information to identify patterns in the system.
+
+We focus on the relationship between language evolution and network structure, using a francophone Twitter dataset of 200M+ tweets and 2M+ users collected over a two-year period. We explore the capabilities of deep learning approaches -- which have not yet been fully applied to network-structured data -- to unify the different sources of information available in Twitter and explore the relationship between topology-based communities and patterns of language use. The goal is to construct an embedding of users that lets us infer correlations between linguistic variables, network structure, and socio-economic attributes.
+
+This project is my current work focus, and you can watch progress on the [github repository](https://github.com/ixxi-dante/nw2vec)!
+
+
+### 2015-2017 -- [Gistr](https://osf.io/k7d38/) {id="gistr"}
 
 To investigate interpretation in particular contexts, and the effects it can have at the global scale such as cultural attractors, we built an online *chinese whispers* game where people iteratively memorise and rewrite short pieces of text, to see how they are gradually transformed as they are transmitted.
 
 It's presented as a Game With a Purpose, available a [gistr.io](https://gistr.io). If you're interested, head over to the [project wiki](https://osf.io/k7d38/wiki/)! This was my first non-trivial project using [Elm](http://elm-lang.org/), and it's been a delightful experience.
 
-We're still developing this project and analysing the data it's producing, so more will come here shortly.
+<div class="screenshots">
+  <a href="/static/gistr-exp-2-screenshots/welcome.png" title="Gistr Welcome page"><img alt="Gistr Welcome page" src="/static/gistr-exp-2-screenshots/welcome.png"></a>
+  <a href="/static/gistr-exp-2-screenshots/instructions.png" title="Gistr Experiment Instructions"><img alt="Gistr Experiment Instructions" src="/static/gistr-exp-2-screenshots/instructions.png"></a>
+  <a href="/static/gistr-exp-2-screenshots/explore.png" title="Gistr Tree Exploration"><img alt="Gistr Tree Exploration" src="/static/gistr-exp-2-screenshots/explore.png"></a>
+</div>
+
+The high-quality data coming from this experiment let us model the transformations that occur when people are asked to remember and rewrite short stories. In particular, we showed that those transformations can be described as a combination of simple operations that lead into each other and form word filiations. Breaking down complex linguistic changes into such simple operations also paves the way for better models of short-term cultural change.
+
+The full details are in Chapter 3 of my [thesis](#phd-thesis).
 
 <div class="screenshots">
-  <a href="/static/gistr-exp-2-screenshots/welcome.png"><img alt="Gistr Welcome page" src="/static/gistr-exp-2-screenshots/welcome.png"></a>
-  <a href="/static/gistr-exp-2-screenshots/instructions.png"><img alt="Gistr Experiment Instructions" src="/static/gistr-exp-2-screenshots/instructions.png"></a>
-  <a href="/static/gistr-exp-2-screenshots/explore.png"><img alt="Gistr Tree Exploration" src="/static/gistr-exp-2-screenshots/explore.png"></a>
+  <a href="/static/gistr-exp-3-results/branch-49.png" title="Transformations made to one story in the experiment"><img alt="Transformations made to one story in the experiment" src="/static/gistr-exp-3-results/branch-49.png" style="height: unset; width: 100%"></a>
+</div>
+<div class="screenshots">
+  <a href="/static/gistr-exp-3-results/operation-arrays.png" title="Breakdown of an individual transformation"><img alt="Breakdown of an individual transformation" src="/static/gistr-exp-3-results/operation-arrays.png" style="height: unset; width: 100%"></a>
 </div>
 
 
@@ -62,11 +82,11 @@ Online news is full of quotes from politicians or other famous people. Quite oft
 This led to our [*Semantic drift of quotations in blogspace*](https://hal.archives-ouvertes.fr/hal-01143986) paper. The whole analysis is free software and thoroughly documented, so that it can be remixed or can serve as inspiration or as an example for other projects. The code lives [here](https://github.com/wehlutyk/brainscopypaste), the documentation [here](https://brainscopypaste.readthedocs.org/en/latest/).
 
 <div class="screenshots">
-  <a href="/static/brainscopypaste-screenshots/figure-4.png"><img alt="Substitution detection models" src="/static/brainscopypaste-screenshots/figure-4.png"></a>
+  <a href="/static/brainscopypaste-screenshots/figure-4.png" title="Substitution detection models"><img alt="Substitution detection models" src="/static/brainscopypaste-screenshots/figure-4.png"></a>
 </div>
 <div class="screenshots">
-  <a href="/static/brainscopypaste-screenshots/figure-6.png"><img alt="Feature susceptibilities" src="/static/brainscopypaste-screenshots/figure-6.png"></a>
-  <a href="/static/brainscopypaste-screenshots/figure-5.png"><img alt="POS susceptibilities" src="/static/brainscopypaste-screenshots/figure-5.png"></a>
+  <a href="/static/brainscopypaste-screenshots/figure-6.png" title="Feature susceptibilities"><img alt="Feature susceptibilities" src="/static/brainscopypaste-screenshots/figure-6.png"></a>
+  <a href="/static/brainscopypaste-screenshots/figure-5.png" title="POS susceptibilities"><img alt="POS susceptibilities" src="/static/brainscopypaste-screenshots/figure-5.png"></a>
 </div>
 
 
@@ -77,9 +97,9 @@ Mind-wandering is something we all do about 50% of our waking time: at any momen
 [Vincent Adam](https://vincentadam87.github.io/) and I had partnered to start building Android apps for cognitive science, and after a chance encounter with [Jonathan Smallwood](https://themindwanders.com/) we started a project to gather better data on mind-wandering thanks to smartphones! The project later transitioned to [Mikaël Bastian](http://mikaelbastian.weebly.com/) and [Jérôme Sackur](http://www.lscp.net/persons/sackur/) for the scientific side, partnering with [Gislain Delaire](https://cargocollective.com/gislaindelaire) for the design. Eventually created the [Daydreaming](https://play.google.com/store/apps/details?id=com.brainydroid.daydreaming) app, which would ask you at random moments of the day if you were mind-wandering or not (and delve into the details if you were). Launching it was a nice adventure, and led to another paper, [*Language facilitates introspection*](https://labs.psych.ucsb.edu/schooler/jonathan/sites/labs.psych.ucsb.edu.schooler.jonathan/files/pubs/bastian_innerspeech_manuscript_-_revised_cl-2.pdf), which investigates the effect of mind-wandering in language vs. in images on the probability that you'll realise that you are currently mind-wandering.
 
 <div class="screenshots">
-  <a href="/static/daydreaming-screenshots/question.png"><img alt="Daydreaming question example" src="/static/daydreaming-screenshots/question.jpg" style="height: 250px"></a>
-  <a href="/static/daydreaming-screenshots/results-rhythms.png"><img alt="Daydreaming rhythms results example" src="/static/daydreaming-screenshots/results-rhythms.png" style="height: 250px"></a>
-  <a href="/static/daydreaming-screenshots/results-type.png"><img alt="Daydreaming thought type results example" src="/static/daydreaming-screenshots/results-type.png" style="height: 250px"></a>
+  <a href="/static/daydreaming-screenshots/question.png" title="Daydreaming question example"><img alt="Daydreaming question example" src="/static/daydreaming-screenshots/question.jpg" style="height: 250px"></a>
+  <a href="/static/daydreaming-screenshots/results-rhythms.png" title="Daydreaming rhythms results example"><img alt="Daydreaming rhythms results example" src="/static/daydreaming-screenshots/results-rhythms.png" style="height: 250px"></a>
+  <a href="/static/daydreaming-screenshots/results-type.png" title="Daydreaming thought type results example"><img alt="Daydreaming thought type results example" src="/static/daydreaming-screenshots/results-type.png" style="height: 250px"></a>
 </div>
 
 Here too, the whole process was open and all the parts are released as free software: the code is [here](https://github.com/daydreaming-experiment). The project also featured as a pilot experiment for the [Science en Poche](https://iscpif.fr/projects/science-en-poche/) project Vincent and I helped bootstrap with [David Chavalarias](http://chavalarias.com/), securing an "Émergence(s)" grant from the City of Paris later on.
@@ -102,9 +122,9 @@ The goal for the project was to study this hypothesis with the tools of neurosci
 
 ### Peer-reviewed journals
 
-**In press**
+**2018**
 
-Sébastien Lerique and Camille Roth (2017). [The semantic drift of quotations in blogspace: a case study in short-term cultural evolution](https://hal.archives-ouvertes.fr/hal-01143986). *Cognitive Science* (in press). [[Publisher version](http://onlinelibrary.wiley.com/doi/10.1111/cogs.12494/full)]
+Sébastien Lerique and Camille Roth (2018). [The semantic drift of quotations in blogspace: a case study in short-term cultural evolution](https://hal.archives-ouvertes.fr/hal-01143986). *Cognitive Science*, 42(1), 188-219. [[Publisher version](http://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12494)]
 
 **2017**
 
@@ -116,6 +136,14 @@ Sébastien Lerique (2016). [Pour une étude de la dynamique du sens : Réflexion
 
 
 ### Communications
+
+**Upcoming**
+
+Sébastien Lerique, Éric Fleury and Márton Karsai (upcoming). Linguistic and social network coevolution: joint analysis of heterogenous sources of information in Twitter. [*NetSci 2018*](https://www.netsci2018.com/), Paris, June 2018.
+
+**Past**
+
+Sébastien Lerique and Camille Roth (2017). [Lexical transformations in blogspace: a case study in short-term cultural evolution](/static/2017-09-13-CES-jena-lexical-transformations-in-blogspace-slides-Camille.pdf). [*Inaugural Cultural Evolution Society Conference*](https://www.shh.mpg.de/cescjena2017), Max Planck Institute for the Science of Human History, Jena, September 2017.
 
 Sébastien Lerique and Camille Roth (2016). Cultural attractors by iterated sentence reformulation: elements of the cognitive story in complex contagion. [*Data Driven Approach to Networks and Language*](https://project.inria.fr/netspringlyon/3-workshops-on-network-sciences/workshop-on-data-driven-approach-to-networks-and-linguistic/), ENS Lyon, May 2016.
 
@@ -135,11 +163,26 @@ Vincent Adam, Sébastien Lerique, Florence Ruby, Haakon Engen, Gislain Delaire, 
 Sébastien Lerique (2016). [The Gistr Platform](https://hal.archives-ouvertes.fr/hal-01361964). Deliverable for the Algopol project ANR-12-CORD-0018.
 
 
-### Academic theses
+### Academic theses {id="theses"}
 
-Sébastien Lerique (2012). [Comment les cerveaux copient-collent-ils ? Dérive sémantique des citations dans la blogosphère](/static/2012-rapport-stage-m2-cogmaster.pdf). Thesis for the M.Sc. in Cognitive Science *Cogmaster*, directed by Camille Roth. École Normale Supérieure de Paris.
+Sébastien Lerique (2017). [Epidemiology of representations: an empirical approach](https://github.com/wehlutyk/thesis/releases/download/v1.2/thesis-v1.2.pdf){id="phd-thesis"}. Thesis submitted for the degree of Ph.D. in Cognitive Science, supervised by Jean-Pierre Nadal and Camille Roth. École des Hautes Études en Sciences Sociales, Paris. [Jury's report](https://github.com/wehlutyk/thesis/blob/master/reviews/Rapport%20de%20soutenance%20-%20original.pdf). Jury:
 
-Sébastien Lerique (2011). [Rugby et Cognition. Enquête auprès du Racing Métro 92](/static/2011-rapport-projet-rugby.pdf). Research internship report, directed by Florence Weber and Julien Clément. École Normale Supérieure de Paris.
+* Pr. Russell Gray [[review](https://github.com/wehlutyk/thesis/blob/master/reviews/Pr%C3%A9-rapport%20Russell%20Gray.pdf)]
+* Pr. Fiona Jordan [[review](https://github.com/wehlutyk/thesis/blob/master/reviews/Pr%C3%A9-rapport%20Fiona%20Jordan.pdf)]
+* Dr. Márton Karsai
+* Pr. Jean-Pierre Nadal
+* Pr. Sharon Peperkamp
+* Pr. Camille Roth
+* Dr. Mónica Tamariz
+
+Sébastien Lerique (2012). [Comment les cerveaux copient-collent-ils ? Dérive sémantique des citations dans la blogosphère](/static/2012-rapport-stage-m2-cogmaster.pdf){id="master-thesis"}. Thesis for the M.Sc. in Cognitive Science *Cogmaster*, supervised by Camille Roth. École Normale Supérieure de Paris.
+
+Sébastien Lerique (2011). [Rugby et Cognition. Enquête auprès du Racing Métro 92](/static/2011-rapport-projet-rugby.pdf){id="rugby-thesis"}. Research internship report, supervised by Florence Weber and Julien Clément. École Normale Supérieure de Paris.
+
+
+### Media
+
+13th October 2017. [When the Internet sheds light on the transformation of messages](http://www.sciencespo.fr/research/cogito/home/quand-le-web-eclaire-la-transformation-des-messages/?lang=en). Cogito n°3 (Sciences Po research newsletter).
 
 ---
 
