@@ -31,6 +31,7 @@ TYPOGRIFY = True
 TWITTER_ACCOUNT = 'wehlutyk'
 GITHUB_ACCOUNT = 'wehlutyk'
 EMAIL_ADDRESS = 'sl@mehho.net'
+MATRIX_ACCOUNT = 'wehlutyk:matrix.org'
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives',
                     'sitemap', 'robots', 'humans')
 ROBOTS_SAVE_AS = 'robots.txt'
