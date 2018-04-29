@@ -167,7 +167,7 @@ Sébastien Lerique (2016). [The Gistr Platform](https://hal.archives-ouvertes.fr
 
 ### Academic theses {id="theses"}
 
-Sébastien Lerique (2017). [Epidemiology of representations: an empirical approach](https://github.com/wehlutyk/thesis/releases/download/v1.2/thesis-v1.2.pdf){id="phd-thesis"}. Thesis submitted for the degree of Ph.D. in Cognitive Science, supervised by Jean-Pierre Nadal and Camille Roth. École des Hautes Études en Sciences Sociales, Paris. Read the [jury's report](https://github.com/wehlutyk/thesis/blob/master/reviews/Rapport%20de%20soutenance%20-%20original.pdf) --- here are the jury members:
+Sébastien Lerique (2017). [Epidemiology of representations: an empirical approach](https://github.com/wehlutyk/thesis/releases/download/v1.2/thesis-v1.2.pdf){id="phd-thesis"}. Thesis submitted for the degree of Ph.D. in Cognitive Science, supervised by Jean-Pierre Nadal and Camille Roth. École des Hautes Études en Sciences Sociales, Paris. Read the [jury's report](https://github.com/wehlutyk/thesis/blob/master/reviews/Rapport%20de%20soutenance%20-%20original.pdf) -- here are the jury members:
 
 * Pr. Russell Gray [[review](https://github.com/wehlutyk/thesis/blob/master/reviews/Pr%C3%A9-rapport%20Russell%20Gray.pdf)]
 * Pr. Fiona Jordan [[review](https://github.com/wehlutyk/thesis/blob/master/reviews/Pr%C3%A9-rapport%20Fiona%20Jordan.pdf)]
