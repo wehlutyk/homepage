@@ -139,6 +139,8 @@ Sébastien Lerique (2016). [Pour une étude de la dynamique du sens : Réflexion
 
 **Upcoming**
 
+Sébastien Lerique and Camille Roth (upcoming). Descriptive modelling of utterance transformations in chains: short-term linguistic evolution in a large-scale online experiment. [*HBES 2018*](https://www.hbes.com/conference/hbes2018/), Amsterdam, July 2018.
+
 Sébastien Lerique, Éric Fleury and Márton Karsai (upcoming). Linguistic and social network coevolution: joint analysis of heterogenous sources of information in Twitter. [*NetSci 2018*](https://www.netsci2018.com/), Paris, June 2018.
 
 **Past**
