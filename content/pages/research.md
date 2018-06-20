@@ -141,9 +141,9 @@ Sébastien Lerique (2016). [Pour une étude de la dynamique du sens : Réflexion
 
 Sébastien Lerique and Camille Roth (upcoming). Descriptive modelling of utterance transformations in chains: short-term linguistic evolution in a large-scale online experiment. [*HBES 2018*](https://www.hbes.com/conference/hbes2018/), Amsterdam, July 2018.
 
-Sébastien Lerique, Éric Fleury and Márton Karsai (upcoming). Linguistic and social network coevolution: joint analysis of heterogenous sources of information in Twitter. [*NetSci 2018*](https://www.netsci2018.com/), Paris, June 2018.
-
 **Past**
+
+Sébastien Lerique, Éric Fleury and Márton Karsai (2018). [Linguistic and social network coevolution: joint analysis of heterogenous sources of information in Twitter](https://slides.com/seblerique/linguistic-and-social-network-coevolution). [*NetSci 2018*](https://www.netsci2018.com/), Paris, June 2018.
 
 Sébastien Lerique and Camille Roth (2017). [Lexical transformations in blogspace: a case study in short-term cultural evolution](/static/2017-09-13-CES-jena-lexical-transformations-in-blogspace-slides-Camille.pdf). [*Inaugural Cultural Evolution Society Conference*](https://www.shh.mpg.de/cescjena2017), Max Planck Institute for the Science of Human History, Jena, September 2017.
 
@@ -192,7 +192,7 @@ Sébastien Lerique (2011). [Rugby et Cognition. Enquête auprès du Racing Métr
 
 See my [CV](/static/CV_Sébastien_Lerique_en.pdf) for more details. Here is the shorter version:
 
-* Current -- PhD candidate in Cognitive Science at the [EHESS](https://www.ehess.fr/) (Paris), attached to the [CAMS](http://cams.ehess.fr/), supervised by [Jean-Pierre Nadal](http://www.lps.ens.fr/~nadal/) and [Camille Roth](http://camille.roth.free.fr/) (co-supervisor).
+* 2017 -- PhD in Cognitive Science at the [EHESS](https://www.ehess.fr/) (Paris), attached to the [CAMS](http://cams.ehess.fr/), supervised by [Jean-Pierre Nadal](http://www.lps.ens.fr/~nadal/) and [Camille Roth](http://camille.roth.free.fr/) (co-supervisor).
 * 2013 -- [École Normale Supérieure](http://www.ens.fr/) Diploma, Cognitive Science major, Physics minor.
 * 2012 -- [*Cogmaster*](http://sapience.dec.ens.fr/cogmaster/www/) Masters in Cognitive Science (*magna cum laude*) focused on Mathematics, Modelling, and Linguistics, at the ENS (Paris).
 * 2010-2011 -- Undergraduate studies in Sociology and Anthropology at the [UNSAM](http://www.unsam.edu.ar/) (Buenos Aires, Argentina).
