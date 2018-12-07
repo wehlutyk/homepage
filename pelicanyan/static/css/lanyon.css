@@ -151,7 +151,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
-  background-color: #2A2A3A;
+  background-color: #492c04;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
@@ -227,10 +227,10 @@ a.sidebar-nav-item:focus {
   width: 1rem;
   height: .75rem;
   content: "";
-  background-image: -webkit-linear-gradient(to bottom, #5A5A6A, #5A5A6A 20%, #fff 20%, #fff 40%, #5A5A6A 40%, #5A5A6A 60%, #fff 60%, #fff 80%, #5A5A6A 80%, #5A5A6A 100%);
-  background-image:    -moz-linear-gradient(to bottom, #5A5A6A, #5A5A6A 20%, #fff 20%, #fff 40%, #5A5A6A 40%, #5A5A6A 60%, #fff 60%, #fff 80%, #5A5A6A 80%, #5A5A6A 100%);
-  background-image:     -ms-linear-gradient(to bottom, #5A5A6A, #5A5A6A 20%, #fff 20%, #fff 40%, #5A5A6A 40%, #5A5A6A 60%, #fff 60%, #fff 80%, #5A5A6A 80%, #5A5A6A 100%);
-  background-image:         linear-gradient(to bottom, #5A5A6A, #5A5A6A 20%, #fff 20%, #fff 40%, #5A5A6A 40%, #5A5A6A 60%, #fff 60%, #fff 80%, #5A5A6A 80%, #5A5A6A 100%);
+  background-image: -webkit-linear-gradient(to bottom, #492c04, #492c04 20%, #fff 20%, #fff 40%, #492c04 40%, #492c04 60%, #fff 60%, #fff 80%, #492c04 80%, #492c04 100%);
+  background-image:    -moz-linear-gradient(to bottom, #492c04, #492c04 20%, #fff 20%, #fff 40%, #492c04 40%, #492c04 60%, #fff 60%, #fff 80%, #492c04 80%, #492c04 100%);
+  background-image:     -ms-linear-gradient(to bottom, #492c04, #492c04 20%, #fff 20%, #fff 40%, #492c04 40%, #492c04 60%, #fff 60%, #fff 80%, #492c04 80%, #492c04 100%);
+  background-image:         linear-gradient(to bottom, #492c04, #492c04 20%, #fff 20%, #fff 40%, #492c04 40%, #492c04 60%, #fff 60%, #fff 80%, #492c04 80%, #492c04 100%);
 }
 
 .sidebar-toggle:active,
