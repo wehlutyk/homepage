@@ -30,7 +30,7 @@ THEME = 'pelicanyan'
 TYPOGRIFY = True
 TWITTER_ACCOUNT = 'wehlutyk'
 GITHUB_ACCOUNT = 'wehlutyk'
-EMAIL_ADDRESS = 'sl@eauchat.org'
+EMAIL_ADDRESS = 'sl@slvh.fr'
 MATRIX_ACCOUNT = 'wehlutyk:matrix.org'
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives',
                     'sitemap', 'robots', 'humans')
