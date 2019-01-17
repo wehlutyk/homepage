@@ -30,7 +30,7 @@ THEME = 'pelicanyan'
 TYPOGRIFY = True
 TWITTER_ACCOUNT = 'wehlutyk'
 GITHUB_ACCOUNT = 'wehlutyk'
-EMAIL_ADDRESS = 'sl@mehho.net'
+EMAIL_ADDRESS = 'sl@eauchat.org'
 MATRIX_ACCOUNT = 'wehlutyk:matrix.org'
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives',
                     'sitemap', 'robots', 'humans')
@@ -40,7 +40,7 @@ SITEMAP_SAVE_AS = 'sitemap.xml'
 DEFAULT_LANG = 'en'
 DATE_FORMATS = {'en': '%B %d, %Y'}
 STATIC_PATHS = ['images', 'favicon.ico', 'static',
-                'sebastien-lerique_sl@mehho.net_0x3D8D8164_pub.asc']
+                'sebastien-lerique_sl@eauchat.org_2CDAC2B523D649E4_pub.asc']
 
 # Posts are drafts by default
 DEFAULT_METADATA = {
