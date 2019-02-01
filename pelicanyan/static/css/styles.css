@@ -58,7 +58,7 @@ td img {
 .icons a { color: #9a9a9a; margin-right: 1em; }
 .icons a:hover { color: #fff }
 /* .icons a i.fa-envelope { float: left; margin: .15em .3em 0 0; } */
-.icons a i.fa-key { float: left; margin: .7em .15em 1em 0; }
+.icons a i.fa-key { float: left; margin: 1em .25em 1em 0; }
 
 /*
  * Comments link

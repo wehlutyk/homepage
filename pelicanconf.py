@@ -28,6 +28,7 @@ ARTICLE_SAVE_AS = 'posts/{date:%Y}-{date:%m}-{date:%d}-{slug}/index.html'
 # Theme
 THEME = 'pelicanyan'
 TYPOGRIFY = True
+MASTODON_ACCOUNT = 'mastodon.social/@wehlutyk'
 TWITTER_ACCOUNT = 'wehlutyk'
 GITHUB_ACCOUNT = 'wehlutyk'
 EMAIL_ADDRESS = 'sl@slvh.fr'
