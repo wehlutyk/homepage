@@ -40,7 +40,7 @@ Some of these contradict each other, but I find them all inspiring:
 
 ## Projects {id="projects"}
 
-### 2017 to now -- [Attributed Network to Vector](https://github.com/ixxi-dante/an2vec) {id="an2vec"}
+### 2017 to now -- [Attributed Node to Vector](https://github.com/ixxi-dante/an2vec) {id="an2vec"}
 
 Social media platforms present themselves as large networks of users communicating and interacting through written messages. Their interactions are highly structured, and linked to a variety of factors such as their socio-demographic variables, their linguistic usage patterns, the distribution of their interests, or the structure of interaction networks (either conversation- or follower-based).
 
