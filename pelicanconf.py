@@ -41,7 +41,9 @@ SITEMAP_SAVE_AS = 'sitemap.xml'
 DEFAULT_LANG = 'en'
 DATE_FORMATS = {'en': '%B %d, %Y'}
 STATIC_PATHS = ['images', 'favicon.ico', 'static',
-                'sebastien-lerique_sl@eauchat.org_2CDAC2B523D649E4_pub.asc']
+                # Copy a CNAME file for GitHub Pages
+                'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 
 # Posts are drafts by default
 DEFAULT_METADATA = {
@@ -60,8 +62,3 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
-
-# Copy a CNAME file for GitHub Pages
-FILES_TO_COPY = (
-    ('extra/CNAME', 'CNAME'),
-)
