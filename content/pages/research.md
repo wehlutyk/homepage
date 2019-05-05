@@ -40,7 +40,7 @@ Some of these contradict each other, but I find them all inspiring:
 
 ## Projects {id="projects"}
 
-### 2017 to now -- [Node-word-2-vec](https://github.com/ixxi-dante/nw2vec) {id="nw2vec"}
+### 2017 to now -- [Attributed Network to Vector](https://github.com/ixxi-dante/an2vec) {id="an2vec"}
 
 Social media platforms present themselves as large networks of users communicating and interacting through written messages. Their interactions are highly structured, and linked to a variety of factors such as their socio-demographic variables, their linguistic usage patterns, the distribution of their interests, or the structure of interaction networks (either conversation- or follower-based).
 
@@ -48,7 +48,7 @@ To our knowledge, current approaches to describing the dynamics of such systems 
 
 We focus on the relationship between language evolution and network structure, using a francophone Twitter dataset of 200M+ tweets and 2M+ users collected over a two-year period. We explore the capabilities of deep learning approaches -- which have not yet been fully applied to network-structured data -- to unify the different sources of information available in Twitter and explore the relationship between topology-based communities and patterns of language use. The goal is to construct an embedding of users that lets us infer correlations between linguistic variables, network structure, and socio-economic attributes.
 
-This project is my current work focus, and you can watch progress on the [github repository](https://github.com/ixxi-dante/nw2vec)!
+This project is my current work focus, and you can watch progress on the [github repository](https://github.com/ixxi-dante/an2vec)!
 
 
 ### 2015-2017 -- [Gistr](https://osf.io/k7d38/) {id="gistr"}
