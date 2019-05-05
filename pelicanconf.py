@@ -60,3 +60,8 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+# Copy a CNAME file for GitHub Pages
+FILES_TO_COPY = (
+    ('extra/CNAME', 'CNAME'),
+)
