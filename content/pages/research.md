@@ -137,7 +137,15 @@ Sébastien Lerique (2016). [Pour une étude de la dynamique du sens : Réflexion
 
 ### Communications
 
+**Upcoming**
+
+Sébastien Lerique and Camille Roth (2019). Evolution of stories in a large-scale online experiment: bridging psycholinguistics and cultural evolution. [IC2S2](https://2019.ic2s2.org/), Amsterdam, July 2019.
+
+Dan Dediu, Márton Karsai, Sébastien Lerique and Jean-Philippe Magué (2019). Individual variation, network heterogeneity and linguistic complexity: which way does the relationship go?. [IELC 2019](http://www.lel.ed.ac.uk/cle/index.php/ielc2019/), Edinburgh, June 2019.
+
 **Past**
+
+Sébastien Lerique, Jacobo Levy-Abitbol, Márton Karsai and Éric Fleury (2018). [Joint graph-feature embeddings using GCAEs](https://slides.com/seblerique/joint-graph-feature-embeddings-using-gcaes/). [*Graph Embedding Day*](http://ged2018.sci-web.net/), Lyon, September 2018.
 
 Sébastien Lerique and Camille Roth (2018). [Descriptive modelling of utterance transformations in chains: short-term linguistic evolution in a large-scale online experiment](https://slides.com/seblerique/descriptive-modelling-of-utterance-transformations-in-chains). [*HBES 2018*](https://www.hbes.com/conference/hbes2018/), Amsterdam, July 2018.
 
