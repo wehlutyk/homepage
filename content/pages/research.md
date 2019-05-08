@@ -55,7 +55,7 @@ This project is my current work focus, and you can watch progress on the [github
 
 To investigate interpretation in particular contexts, and the effects it can have at the global scale such as cultural attractors, we built an online *chinese whispers* game where people iteratively memorise and rewrite short pieces of text, to see how they are gradually transformed as they are transmitted.
 
-It's presented as a Game With a Purpose, available a [gistr.io](https://gistr.io) *(note on 5/05/2018: due to a temparay server failure, this website is currently unavailable)*. If you're interested, head over to the [project wiki](https://osf.io/k7d38/wiki/)! This was my first non-trivial project using [Elm](http://elm-lang.org/), and it's been a delightful experience.
+It's presented as a Game With a Purpose, available a [gistr.io](https://gistr.io). If you're interested, head over to the [project wiki](https://osf.io/k7d38/wiki/)! This was my first non-trivial project using [Elm](http://elm-lang.org/), and it's been a delightful experience.
 
 <div class="screenshots">
   <a href="/static/gistr-exp-2-screenshots/welcome.png" title="Gistr Welcome page"><img alt="Gistr Welcome page" src="/static/gistr-exp-2-screenshots/welcome.png"></a>
