@@ -32,7 +32,7 @@ MASTODON_ACCOUNT = 'mastodon.social/@wehlutyk'
 TWITTER_ACCOUNT = 'wehlutyk'
 GITHUB_ACCOUNT = 'wehlutyk'
 EMAIL_ADDRESS = 'sl@slvh.fr'
-MATRIX_ACCOUNT = 'wehlutyk:matrix.org'
+MATRIX_ACCOUNT = 'sl:eauchat.org'
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives',
                     'sitemap', 'robots', 'humans')
 ROBOTS_SAVE_AS = 'robots.txt'
