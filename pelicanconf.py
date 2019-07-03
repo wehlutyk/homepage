@@ -42,13 +42,8 @@ DEFAULT_LANG = 'en'
 DATE_FORMATS = {'en': '%B %d, %Y'}
 STATIC_PATHS = ['images', 'favicon.ico', 'static',
                 # Copy a CNAME file for GitHub Pages
-                'extra/CNAME',
-                # Copy WebID
-                'extra/foaf.rdf']
-EXTRA_PATH_METADATA = {
-    'extra/CNAME': {'path': 'CNAME'},
-    'extra/foaf.rdf': {'path': 'foaf.rdf'}
-}
+                'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 
 # Posts are drafts by default
 DEFAULT_METADATA = {
