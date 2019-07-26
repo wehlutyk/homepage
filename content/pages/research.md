@@ -137,11 +137,9 @@ Sébastien Lerique (2016). [Pour une étude de la dynamique du sens : Réflexion
 
 ### Communications
 
-**Upcoming**
+**Past**
 
 Sébastien Lerique and Camille Roth (2019). Evolution of stories in a large-scale online experiment: bridging psycholinguistics and cultural evolution. [IC2S2](https://2019.ic2s2.org/), Amsterdam, July 2019.
-
-**Past**
 
 Sébastien Lerique, Dan Dediu, Márton Karsai, and Jean-Philippe Magué (2019). [Individual variation, network heterogeneity and linguistic complexity: which way does the relationship go?](https://wehlutyk.gitlab.io/ielc2019-presentation/). [IELC 2019](http://www.lel.ed.ac.uk/cle/index.php/ielc2019/), Edinburgh, June 2019.
 
