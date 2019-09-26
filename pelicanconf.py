@@ -31,6 +31,7 @@ TYPOGRIFY = True
 MASTODON_ACCOUNT = 'mastodon.social/@wehlutyk'
 TWITTER_ACCOUNT = 'wehlutyk'
 GITHUB_ACCOUNT = 'wehlutyk'
+GITLAB_ACCOUNT = 'wehlutyk'
 EMAIL_ADDRESS = 'sl@slvh.fr'
 MATRIX_ACCOUNT = 'sl:eauchat.org'
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives',
