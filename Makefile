@@ -15,7 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=eauchat.org
 SSH_PORT=10122
 SSH_USER=ubuntu
-SSH_TARGET_DIR=/var/www/slvh.fr
+SSH_TARGET_DIR=/srv/www/slvh.fr
 
 S3_BUCKET=my_s3_bucket
 
