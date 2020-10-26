@@ -7,19 +7,19 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -31,19 +31,15 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -55,7 +51,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -63,11 +59,15 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -76,35 +76,11 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-19-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -112,7 +88,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-19-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -124,7 +120,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -132,11 +128,15 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -145,11 +145,11 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2017-01-11-these-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-10-these-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-10-these-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2017-01-11-these-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -172,19 +172,19 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -196,23 +196,15 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -224,15 +216,23 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>//slvh.fr/posts/2016-04-30-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -246,19 +246,15 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -270,19 +266,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -294,7 +290,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -302,11 +298,15 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -328,19 +328,19 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -352,23 +352,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -380,7 +376,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -388,7 +384,11 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -397,19 +397,19 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -421,19 +421,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -445,7 +445,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -453,11 +453,11 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -471,19 +471,19 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -495,27 +495,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-09-26-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -523,15 +503,35 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-30-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-26-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-04-30-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -540,19 +540,19 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -564,23 +564,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -588,7 +584,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -596,11 +592,15 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -609,39 +609,7 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2017-06-18-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -649,11 +617,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-26-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-10-01-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-06-18-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -661,60 +637,11 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-30-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-09-19-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2017-06-18-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -726,7 +653,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -734,24 +661,11 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -759,7 +673,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -771,19 +698,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -795,7 +722,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -803,11 +730,84 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-19-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-06-18-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-26-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-10-01-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-04-30-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -825,19 +825,19 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -849,31 +849,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-09-26-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-10-01-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -885,7 +861,31 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-26-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-10-01-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -894,19 +894,19 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -918,23 +918,15 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -946,7 +938,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -958,20 +950,28 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -983,23 +983,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1011,7 +1007,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1019,11 +1015,15 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1050,15 +1050,15 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1070,23 +1070,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1098,7 +1094,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1106,11 +1102,15 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1119,15 +1119,19 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1139,23 +1143,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-20-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1167,7 +1167,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1175,11 +1175,11 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1188,15 +1188,19 @@
   </url>
 
   <url>
-    <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2016-04-16-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-03-05-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1208,23 +1212,15 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>//slvh.fr/posts/2017-06-26-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-23-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-09-10-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1236,7 +1232,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2017-01-31-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-09-03-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1244,11 +1240,15 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-04-24-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>//slvh.fr/posts/2016-11-22-this-weeks-higgledy-piggledy/</loc>
+    <loc>//slvh.fr/posts/2016-11-12-this-weeks-higgledy-piggledy/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>//slvh.fr/posts/2016-02-27-this-weeks-higgledy-piggledy/</loc>
     <priority>0.8</priority>
   </url>
 
